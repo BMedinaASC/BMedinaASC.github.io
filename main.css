@@ -1,0 +1,41 @@
+#wolf
+{
+	width: 320px;
+	height: 244px;
+	margin-left: 510px;
+	margin-top: 20px;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 3em;
+}
+
+p
+{
+	text-align: center;
+	font-size: 2em;
+}
+
+#main
+{
+	background-color: rgb(28, 173, 240);
+	font-family: 'Shadows Into Light', cursive;
+}
+
+#freerunning
+{
+	background-image: url("brickwall.jpg");
+	font-family: 'Roboto', sans-serif;
+}
+
+#FR
+{
+	
+}
+
+#coding
+{
+	
+}
